@@ -1,2 +1,2 @@
-# -web
- --- http://lifeng666.top/mjd/
+# mjd2
+ --- http://lifeng666.top/mjd2/
